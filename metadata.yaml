@@ -1,0 +1,55 @@
+_repo: Nippon-orszag-naposkertje-b-Japan-nepmesek_70518
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kúnos, Ignácz
+    aliases:
+    - Kunos, Ignacz
+    - Kúnos, Ignaz
+    - Kunosh, I.
+    - Kúnos, Ignác
+    birthdate: 1862
+    deathdate: 1945
+    gutenberg_agent_id: '53061'
+    url: http://www.gutenberg.org/2009/agents/53061
+    wikipedia:
+    - https://hu.wikipedia.org/wiki/K%C3%BAnos_Ign%C3%A1c
+    - https://en.wikipedia.org/wiki/Ign%C3%A1c_K%C3%BAnos
+description: ''
+gutenberg_issued: '2023-04-10'
+identifiers:
+  gutenberg: '70518'
+language: hu
+pgterms:marc905: 20230408003002knos
+pgterms:marc906: '1923'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: '  $aHungary :$bAthenaeum, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- Japan'
+- !lcsh 'Fairy tales -- Japan'
+- !lcc 'GR'
+- GITenberg
+tableOfContents: 'Előhang -- Tokió és Kiotó -- Barack-fia, Momotaro -- Fehérke és
+  Sárgácska -- A levágott nyelvű veréb -- Bonc-növendék mérget evett -- Legyecske
+  és Legyezőcske -- A majom és a rák -- Odango: az igaz neve -- Égi tündér ruhácskája
+  -- A virágfakasztó öreg -- A tigriskölyök -- Golyvát kapott a két öreg -- Hökköm
+  törpe -- Rizsbor-vásár -- A szamuráj szerencséje -- Az irgalmas szívű szegény --
+  Tenger alatt járó asszony -- A medúza és a majom -- Az újhold és a fellegek -- Patkány-lakzi
+  -- Vak hátán a világtalan -- Az ezerlábú szörnyeteg -- Világító János-bogár -- Testemésztő
+  kígyó füve -- A boszorkánypók -- Tengert apaszt, tengert dagaszt -- Csalafinta róka
+  kölyke -- Tíz szen-pénz a halszag ára -- A csodaforrás -- Téli hónap szamócája --
+  Papírsárkány eregető -- Urasima, a halászlegény -- Kőfejtő és hegyiszellem -- A
+  hold és a denevérek -- Jamagata ajándéka -- Félfülecske, Féllábacska -- Víz tündére
+  Sellő-lányka -- Holló úszik, liba kúszik -- Kacskaringós Folyondárka -- Ibolyácska
+  és a Puszpáng -- Csodatevő ócska ecset -- Felejtető gyömbért evett -- Bambuku-Csagama
+  -- Hacsibime, a fatálas -- Szellemirtó Sippejtaro -- A felemás szarvas -- Férjemuram
+  a vásáron -- A varázstükör -- Csitteg-csattog, libeg-lobog -- Üstöt lopott púpos
+  varga -- Az üstökös és a pacsirták -- A bambuszlányka -- A selyemhernyó -- A nyúlacska
+  és a krokodíl -- A bonc és a vadász.'
+title: 'Nippon-ország naposkertje : $b Japán népmesék'
+url: http://www.gutenberg.org/ebooks/70518
