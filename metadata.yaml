@@ -1,5 +1,8 @@
 _repo: Nippon-orszag-naposkertje-b-Japan-nepmesek_70518
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70518-h/images/cover.jpg
 creator:
   author:
     agent_name: Kúnos, Ignácz
@@ -16,6 +19,8 @@ creator:
     - https://hu.wikipedia.org/wiki/K%C3%BAnos_Ign%C3%A1c
     - https://en.wikipedia.org/wiki/Ign%C3%A1c_K%C3%BAnos
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70518#Nippon-orszag-naposkertje-b-Japan-nepmesek
 gutenberg_issued: '2023-04-10'
 identifiers:
   gutenberg: '70518'
